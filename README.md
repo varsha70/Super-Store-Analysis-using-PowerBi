@@ -2,6 +2,7 @@
 
 Description - 
   On super store dataset, created interactive dashboard and also forcast sale for next 15 days.
+
 Steps - 
   1. Data import from sql
   2. Data cleaning, preprocessing
