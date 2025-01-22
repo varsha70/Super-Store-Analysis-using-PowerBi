@@ -1,10 +1,10 @@
 # Super-Store-Analysis-using-PowerBi
 
 Description - 
-  On super store dataset, created interactive dashboard and also forcast sale for next 15 days.
+  On super store dataset, created an interactive dashboard and also forecasted sale for the next 15 days.
 
 Steps - 
-  1. Data import from sql
+  1. Data import from SQL
   2. Data cleaning, preprocessing
   3. Dax functions
   4. Dashboard
